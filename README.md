@@ -1,17 +1,15 @@
-###Allergies
+##Allergies
 ---
-###Description   
-######The program will return the users allergies based upon the allergen score input
 ---
+####About:   
+This project was written by Erica Gordon on 08/06/14 for Epicodus Ruby TDD assessment.
 
-###Requirements##
-######Ruby, Terminal#####
----
+####Description:
+The application will return a list of allergies associated with the user input allergy score.  
 
-###Authors
-######Erica Gordon - e.gordon503@gmail.com
-___
+####Requirements:
+* Ruby 
+* Terminal
 
-###Date Created
-######08/06/14 MIT License
-___
+######License
+MIT
